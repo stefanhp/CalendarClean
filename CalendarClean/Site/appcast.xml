@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>CalendarClean's Changelog</title>
+		<link>http://www.pistache-soft.ch/software/CalendarClean/appcast.xml</link>
+		<description>Most recent changes with links to updates.</description>
+		<language>en</language>
+		<item>
+			<title>Version 1.0.1.457</title>
+			<description>Version 1.0.1.457</description>
+			<link>http://www.pistache-soft.ch/software/CalendarClean/release-notes.html#version-1.0.1.457</link>
+			<sparkle:minimumSystemVersion>10.6.1</sparkle:minimumSystemVersion>
+			<sparkle:releaseNotesLink>http://www.pistache-soft.ch/software/CalendarClean/release-notes.html#version-1.0.1.457</sparkle:releaseNotesLink>
+			<pubDate>Fri, 26 Nov 2010 15:15:27 +0100</pubDate>
+			<enclosure
+				url="http://www.pistache-soft.ch/download/CalendarClean-1.0.1.457.zip"
+				sparkle:version="457"
+				sparkle:shortVersionString="1.0.1"
+				type="application/octet-stream"
+				length="1634890"
+				sparkle:dsaSignature="MC0CFF0R3zieNvPi8DB2pE+FBSufp78gAhUApHkS/ZTbsiT5+WAL6vwIW37Id38="
+			/>
+		</item>
+		<item>
+			<title>Version 1.0.0.433</title>
+			<description>Version 1.0.0.433</description>
+			<link>http://www.pistache-soft.ch/software/CalendarClean/release-notes.html#version-1.0.0.433</link>
+			<sparkle:minimumSystemVersion>10.6.1</sparkle:minimumSystemVersion>
+			<sparkle:releaseNotesLink>http://www.pistache-soft.ch/software/CalendarClean/release-notes.html#version-1.0.0.433</sparkle:releaseNotesLink>
+			<pubDate>Mon, 27 Sep 2010 15:28:00 +0200</pubDate>
+			<enclosure
+				url="http://www.pistache-soft.ch/download/CalendarClean-1.0.0.433.zip"
+				sparkle:version="433"
+				sparkle:shortVersionString="1.0.0"
+				type="application/octet-stream"
+				length="1413995"
+				sparkle:dsaSignature="MC0CFQCGy4uL1mq3celMrQwx+/2pjDN2gAIURmJ6rbGF+F211Ka4HbKc5DZog1k="
+			/>
+		</item>
+
+	</channel>
+</rss>
