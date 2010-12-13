@@ -6,6 +6,22 @@
 		<description>Most recent changes with links to updates.</description>
 		<language>en</language>
 		<item>
+			<title>Version 1.0.2.500</title>
+			<description>Version 1.0.2.500</description>
+			<link>http://www.pistache-soft.ch/software/CalendarClean/release-notes.html#version-1.0.2.500</link>
+			<sparkle:minimumSystemVersion>10.6.1</sparkle:minimumSystemVersion>
+			<sparkle:releaseNotesLink>http://www.pistache-soft.ch/software/CalendarClean/release-notes.html#version-1.0.2.500</sparkle:releaseNotesLink>
+			<pubDate>Mon, 13 Dec 2010 08:37:08 +0100</pubDate>
+			<enclosure
+				url="http://www.pistache-soft.ch/download/CalendarClean-1.0.2.500.zip"
+				sparkle:version="500"
+				sparkle:shortVersionString="1.0.2"
+				type="application/octet-stream"
+				length="2389320"
+				sparkle:dsaSignature="MC0CFG1YVBOdZ2Jr/PTzRJmRuF6bp7fLAhUAnWx3ESJm3SFbin5qM6ciIfsVX+M="
+			/>
+		</item>
+		<item>
 			<title>Version 1.0.1.457</title>
 			<description>Version 1.0.1.457</description>
 			<link>http://www.pistache-soft.ch/software/CalendarClean/release-notes.html#version-1.0.1.457</link>
